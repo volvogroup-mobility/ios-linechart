@@ -16,6 +16,6 @@ typedef LCInfoView InfoView;
 typedef LCLineChartData LineChartData;
 typedef LCLineChartDataItem LineChartDataItem;
 typedef LCLineChartDataGetter LineChartDataGetter;
-typedef LCLineChartSelectedPoint LineChartSelectedPoint;
-typedef LCLineChartDeselectedPoint LineChartDeselectedPoint;
+// typedef LCLineChartSelectedPoint LineChartSelectedPoint;
+// typedef LCLineChartDeselectedPoint LineChartDeselectedPoint;
 
