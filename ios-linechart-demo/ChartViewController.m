@@ -7,7 +7,7 @@
 //
 
 #import "ChartViewController.h"
-#import "LCLineChartView.h"
+#import "LineChart.h"
 
 @interface ChartViewController ()
 

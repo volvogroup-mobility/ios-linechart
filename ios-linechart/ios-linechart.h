@@ -16,9 +16,8 @@ FOUNDATION_EXPORT const unsigned char ios_linechartVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <ioslinechart/PublicHeader.h>
 
+#import <ios_linechart/LCInfoView.h>
+#import <ios_linechart/LCLegendView.h>
+#import <ios_linechart/LCLineChartView.h>
+#import <ios_linechart/LineChart.h>
 
-#import <ioslinechart/ChartAppDelegate.h>
-#import <ioslinechart/ChartViewController.h>
-#import <ioslinechart/LCInfoView.h>
-#import <ioslinechart/LCLegendView.h>
-#import <ioslinechart/LCLineChartView.h>
